@@ -1,10 +1,10 @@
 XRDraggableMap
 ==============
 
-XRDraggableMap
+A Simple Draggable Map
 
-Credits: 
-@AmirCuric for the initial idea
-@karimsallam for the inspiration
+## Credits 
+* [Amir Curic](https://github.com/AmirCuric) for the initial idea
+* [Karim Sallam](https://github.com/karimsallam) for the inspiration
 
 :)
